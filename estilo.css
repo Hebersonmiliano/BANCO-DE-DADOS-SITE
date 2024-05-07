@@ -1,0 +1,67 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(131, 7, 27);
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: rgb(143, 245, 10);
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #111;
+}
+
+.container{
+    text-align: center;
+}
+
+.foto1{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.foto2{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.foto3{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.foto4{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+p{
+    text-align: justify;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    
+}
